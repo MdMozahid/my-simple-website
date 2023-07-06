@@ -5,3 +5,7 @@ div{
     padding: 10px; 
      border: 10px solid red;
 }
+.change[img]{
+     border-image:100px 200px;
+
+}
